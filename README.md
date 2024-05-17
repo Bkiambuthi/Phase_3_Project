@@ -1,7 +1,7 @@
 # Churn Prediction Phase_3_Project
 
-## Project Overview
-This project aims to predict customer churn using various machine learning models. Customer churn occurs when customers stop using a company’s service. By predicting churn, companies can take proactive steps to retain customers and improve business outcomes.
+## Introduction
+This project aims to predict customer churn in a telecom company using machine learning techniques. Customer churn refers to the loss of customers over a specified period. Identifying churn allows businesses to take proactive measures to retain customers and improve customer satisfaction.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
