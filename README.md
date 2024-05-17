@@ -123,3 +123,4 @@ Below is the confussion matrix for the Random Forest Classifier model on the tes
 ![image](https://github.com/Bkiambuthi/Phase_3_Project/assets/67098705/de10eda8-2c28-41d6-9533-e8cd38cd0e02)
 
 ### For More Information
+Notebook https://github.com/Bkiambuthi/Phase_3_Project/blob/main/Phase_3_Project.ipynb
