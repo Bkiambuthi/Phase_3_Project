@@ -1,4 +1,4 @@
-# Churn Prediction Project
+# Churn Prediction Phase_3_Project
 
 ## Project Overview
 This project aims to predict customer churn using various machine learning models. Customer churn occurs when customers stop using a company’s service. By predicting churn, companies can take proactive steps to retain customers and improve business outcomes.
