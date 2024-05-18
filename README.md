@@ -124,4 +124,5 @@ Below is the confussion matrix for the Random Forest Classifier model on the tes
 
 ### For More Information
 Notebook [https://github.com/Bkiambuthi/Phase_3_Project/blob/main/Phase_3_Project.ipynb](https://github.com/Bkiambuthi/Phase_3_Project/blob/main/notebook.ipynb)
+
 Presentation https://github.com/Bkiambuthi/Phase_3_Project/blob/main/Presentation.pdf
